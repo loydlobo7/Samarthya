@@ -31,3 +31,7 @@ repeating characters.
 each tuple contains the sum and product of the elements in the original tuple.
 20. Write a function that takes a list of dictionaries as input and returns a new dictionary that
 contains the count of the occurrences of each key across all dictionaries.
+
+
+this is the smarthya club's python bootcamp by sjec 
+
