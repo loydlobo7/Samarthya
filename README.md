@@ -1,3 +1,4 @@
+this is the 3 days python boot camp conducted by smarthya club sjec to help ECE students gain the knowledge of Python programming. 
 # samarthya club problems for python
 these are the questions
 Cracking the Code: Python Baisc Problem solving session
